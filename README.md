@@ -1,8 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
+<a href="https://www.instagram.com/alex_sczx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
  <div>
- <a href="https://www.instagram.com/alex_sczx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
+
    <a href="https://github.com/alexscz">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexscz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexscz&layout=compact&langs_count=6&theme=tokyonight"/>
